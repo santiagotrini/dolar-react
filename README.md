@@ -1,5 +1,11 @@
 # Como crear un proyecto de React con Vite
 
+Antes instalar NodeJS y chequear estos dos comandos
+```console
+$ npm -v
+$ node -v
+```
+
 En la terminal
 ```console
 $ npm create vite nombre-de-app
