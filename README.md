@@ -1,8 +1,24 @@
-# React + Vite
+# Como crear un proyecto de React con Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En la terminal
+```console
+$ npm create vite nombre-de-app
+$ cd nombre-de-app
+$ npm i
+$ code .
+$ npm run dev
+```
 
-Currently, two official plugins are available:
+# Como clonar y ejecutar este proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+En la terminal
+```console
+$ git clone https://github.com/santiagotrini/dolar-react
+$ cd dolar-react
+$ npm i
+$ code .
+$ npm run dev
+```
+
+Ir al navegador a `localhost:5173`.
+
